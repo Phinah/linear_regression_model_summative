@@ -1,0 +1,15 @@
+
+name: measles_predictor
+description: A simple Flutter app to predict measles outbreak.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+
+flutter:
+  uses-material-design: true
