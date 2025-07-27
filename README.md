@@ -1,4 +1,3 @@
-Mission & Problem Description
 My mission is to provide/ improve healthcare service using technology in Africa. Africa’s healthcare systems face major challenges including limited access, inefficient service delivery, and fragmented patient records. There is a critical need for a technology-driven solution that bridges these gaps by connecting and unlocking the power of health data.
 
 publicly available API endpoint : 
